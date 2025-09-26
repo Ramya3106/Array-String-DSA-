@@ -21,3 +21,4 @@ var mergeAlternately = function(word1, word2) {
 };
 console.log(mergeAlternately(word1, word2));
 
+
